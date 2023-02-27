@@ -9,10 +9,6 @@
     "next": "^13.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-<<<<<<< HEAD
   },
-=======
-  }
->>>>>>> e95215f00f00be19c8c590d6bb41f80eafad3b70
   "license": "MIT"
 }
